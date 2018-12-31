@@ -1,3 +1,7 @@
+http://localhost:3000/explorer/#!/note/note_find
+https://gorillalogic.com/blog/loopback-and-create-react-app-developer-tutorial/
+
+
 # TakeNote APP!
 
 This is a sample project that goes with a [blog post] to demonstrate how to include React
