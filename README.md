@@ -1,5 +1,15 @@
 http://localhost:3000/explorer/#!/note/note_find
+
 https://gorillalogic.com/blog/loopback-and-create-react-app-developer-tutorial/
+
+
+Later we'll convert this example into react search https://github.com/ChickenKyiv/recipe-search-react,
+recipe api https://github.com/ChickenKyiv/recipe-api-only, Nishith's project with login structure and React: https://github.com/ChickenKyiv/loopback-tutor-intern-8
+
+also groceristar-fetch will be used for import data...
+https://github.com/GroceriStar/groceristar-fetch
+
+maybe also recipe-box or meal calendar too!
 
 
 # TakeNote APP!
