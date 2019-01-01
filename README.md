@@ -11,6 +11,8 @@ https://github.com/GroceriStar/groceristar-fetch
 
 maybe also recipe-box or meal calendar too!
 
+https://medium.com/@jefferyshivers/create-a-chatbot-with-amazon-lex-loopback-and-react-5d034792b8d
+
 
 # TakeNote APP!
 
